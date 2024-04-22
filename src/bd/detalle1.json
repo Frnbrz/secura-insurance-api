@@ -1,0 +1,65 @@
+{
+    "nPolicy": 1001,
+    "riskName": "Automóvil",
+    "ownerData": {
+        "name": "Juan",
+        "surname": "Pérez",
+        "cif": "123456789",
+        "email": "juan.perez@example.com",
+        "phone": "+1234567890",
+        "fiscalAddress": "Calle Bravo Murillo 377",
+        "state": "vigente"
+    },
+    "invoicingDepartment": {
+        "address": "Calle 3424",
+        "addressCode": "71",
+        "postalCode": "28001",
+        "city": "Madrid",
+        "country": "España"
+    },
+    "instalments": [
+        {
+            "issueDate": "2023-05-20T00:00:00Z",
+            "startDate": "2023-05-20T00:00:00Z",
+            "endDate": "2024-05-20T00:00:00Z",
+            "amount": 1200,
+            "state": "pendiente"
+        },
+        {
+            "issueDate": "2023-05-20T00:00:00Z",
+            "startDate": "2023-05-20T00:00:00Z",
+            "endDate": "2024-05-20T00:00:00Z",
+            "amount": 1200,
+            "state": "pagada"
+        },
+        {
+            "issueDate": "2023-05-20T00:00:00Z",
+            "startDate": "2023-05-20T00:00:00Z",
+            "endDate": "2024-05-20T00:00:00Z",
+            "amount": 1200,
+            "state": "pagada"
+        }
+    ],
+    "paymentMethod": {
+        "name": "Grupo Sisquella serveis",
+        "cif": "123456789",
+        "type": "Domiciliado estándar",
+        "iban": "ES9123456789012345678901",
+        "bank": "Banco de Sabadell, S.A."
+    },
+    "correspondenceAddress": {
+        "name": "Grupo Sisquella serveis",
+        "cif": "123456789",
+        "address": "Calle Bravo Murillo 377",
+        "postalCode": "28001",
+        "city": "Madrid",
+        "country": "España",
+        "addressCode": "19",
+        "detail": "Bajo"
+    },
+    "contactData": {
+        "email": "juan.perez@example.com",
+        "email2": "juan.perez2@example.com",
+        "phone": "+1234567890"
+    }
+}
