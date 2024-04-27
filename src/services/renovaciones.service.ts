@@ -5,6 +5,7 @@ const renovaciones: Renovaciones[] = renovacionesData as Renovaciones[]
 
 async function getRenovaciones(): Promise<Renovaciones[]> {
   try {
+    await new Promise((resolve) => setTimeout(resolve, 3000))
     return renovaciones
   } catch (error: any) {
     throw new Error(error.message)

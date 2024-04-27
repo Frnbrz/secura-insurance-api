@@ -126,5 +126,541 @@
     "expirationDate": "2026-06-10T00:00:00Z",
     "amount": 1100,
     "state": "vencida"
+  },
+  {
+    "nPolicy": 1017,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2025-07-25T00:00:00Z",
+    "expirationDate": "2026-07-25T00:00:00Z",
+    "amount": 1450,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1018,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2025-09-08T00:00:00Z",
+    "expirationDate": "2026-09-08T00:00:00Z",
+    "amount": 2300,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1019,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2025-10-15T00:00:00Z",
+    "expirationDate": "2026-10-15T00:00:00Z",
+    "amount": 1950,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1020,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2025-12-05T00:00:00Z",
+    "expirationDate": "2026-12-05T00:00:00Z",
+    "amount": 1500,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1021,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2026-01-20T00:00:00Z",
+    "expirationDate": "2027-01-20T00:00:00Z",
+    "amount": 2350,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1022,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2026-03-08T00:00:00Z",
+    "expirationDate": "2027-03-08T00:00:00Z",
+    "amount": 2000,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1023,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2026-04-15T00:00:00Z",
+    "expirationDate": "2027-04-15T00:00:00Z",
+    "amount": 1150,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1024,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2026-06-20T00:00:00Z",
+    "expirationDate": "2027-06-20T00:00:00Z",
+    "amount": 1550,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1025,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2026-08-10T00:00:00Z",
+    "expirationDate": "2027-08-10T00:00:00Z",
+    "amount": 2400,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1026,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2026-09-25T00:00:00Z",
+    "expirationDate": "2027-09-25T00:00:00Z",
+    "amount": 2050,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1027,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2026-11-12T00:00:00Z",
+    "expirationDate": "2027-11-12T00:00:00Z",
+    "amount": 1200,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1028,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2026-12-30T00:00:00Z",
+    "expirationDate": "2027-12-30T00:00:00Z",
+    "amount": 1600,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1029,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2027-02-05T00:00:00Z",
+    "expirationDate": "2028-02-05T00:00:00Z",
+    "amount": 2450,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1030,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2027-04-20T00:00:00Z",
+    "expirationDate": "2028-04-20T00:00:00Z",
+    "amount": 2100,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1031,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2027-06-10T00:00:00Z",
+    "expirationDate": "2028-06-10T00:00:00Z",
+    "amount": 1250,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1032,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2027-07-25T00:00:00Z",
+    "expirationDate": "2028-07-25T00:00:00Z",
+    "amount": 1650,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1033,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2027-09-08T00:00:00Z",
+    "expirationDate": "2028-09-08T00:00:00Z",
+    "amount": 2500,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1034,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2027-10-15T00:00:00Z",
+    "expirationDate": "2028-10-15T00:00:00Z",
+    "amount": 2150,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1035,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2027-12-05T00:00:00Z",
+    "expirationDate": "2028-12-05T00:00:00Z",
+    "amount": 1300,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1036,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2028-01-20T00:00:00Z",
+    "expirationDate": "2029-01-20T00:00:00Z",
+    "amount": 1700,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1037,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2028-03-08T00:00:00Z",
+    "expirationDate": "2029-03-08T00:00:00Z",
+    "amount": 2550,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1038,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2028-04-15T00:00:00Z",
+    "expirationDate": "2029-04-15T00:00:00Z",
+    "amount": 2200,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1039,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2028-06-20T00:00:00Z",
+    "expirationDate": "2029-06-20T00:00:00Z",
+    "amount": 1350,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1040,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2028-08-10T00:00:00Z",
+    "expirationDate": "2029-08-10T00:00:00Z",
+    "amount": 1750,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1041,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2028-09-25T00:00:00Z",
+    "expirationDate": "2029-09-25T00:00:00Z",
+    "amount": 2600,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1042,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2028-11-12T00:00:00Z",
+    "expirationDate": "2029-11-12T00:00:00Z",
+    "amount": 2250,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1043,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2028-12-30T00:00:00Z",
+    "expirationDate": "2029-12-30T00:00:00Z",
+    "amount": 1400,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1044,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2029-02-05T00:00:00Z",
+    "expirationDate": "2030-02-05T00:00:00Z",
+    "amount": 1800,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1045,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2029-04-20T00:00:00Z",
+    "expirationDate": "2030-04-20T00:00:00Z",
+    "amount": 2650,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1046,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2029-06-10T00:00:00Z",
+    "expirationDate": "2030-06-10T00:00:00Z",
+    "amount": 2300,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1047,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2029-07-25T00:00:00Z",
+    "expirationDate": "2030-07-25T00:00:00Z",
+    "amount": 1450,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1048,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2029-09-08T00:00:00Z",
+    "expirationDate": "2030-09-08T00:00:00Z",
+    "amount": 1850,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1049,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2029-10-15T00:00:00Z",
+    "expirationDate": "2030-10-15T00:00:00Z",
+    "amount": 2700,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1050,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2029-12-05T00:00:00Z",
+    "expirationDate": "2030-12-05T00:00:00Z",
+    "amount": 2350,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1051,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2030-01-20T00:00:00Z",
+    "expirationDate": "2031-01-20T00:00:00Z",
+    "amount": 1500,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1052,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2030-03-08T00:00:00Z",
+    "expirationDate": "2031-03-08T00:00:00Z",
+    "amount": 1900,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1053,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2030-04-15T00:00:00Z",
+    "expirationDate": "2031-04-15T00:00:00Z",
+    "amount": 2750,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1054,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2030-06-20T00:00:00Z",
+    "expirationDate": "2031-06-20T00:00:00Z",
+    "amount": 2400,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1055,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2030-08-10T00:00:00Z",
+    "expirationDate": "2031-08-10T00:00:00Z",
+    "amount": 1550,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1056,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2030-09-25T00:00:00Z",
+    "expirationDate": "2031-09-25T00:00:00Z",
+    "amount": 1950,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1057,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2030-11-12T00:00:00Z",
+    "expirationDate": "2031-11-12T00:00:00Z",
+    "amount": 2800,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1058,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2030-12-30T00:00:00Z",
+    "expirationDate": "2031-12-30T00:00:00Z",
+    "amount": 2450,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1059,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2031-02-05T00:00:00Z",
+    "expirationDate": "2032-02-05T00:00:00Z",
+    "amount": 1600,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1060,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2031-04-20T00:00:00Z",
+    "expirationDate": "2032-04-20T00:00:00Z",
+    "amount": 2000,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1061,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2031-06-10T00:00:00Z",
+    "expirationDate": "2032-06-10T00:00:00Z",
+    "amount": 2850,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1062,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2031-07-25T00:00:00Z",
+    "expirationDate": "2032-07-25T00:00:00Z",
+    "amount": 2500,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1063,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2031-09-08T00:00:00Z",
+    "expirationDate": "2032-09-08T00:00:00Z",
+    "amount": 1650,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1064,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2031-10-15T00:00:00Z",
+    "expirationDate": "2032-10-15T00:00:00Z",
+    "amount": 2050,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1065,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2031-12-05T00:00:00Z",
+    "expirationDate": "2032-12-05T00:00:00Z",
+    "amount": 2900,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1066,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2032-01-20T00:00:00Z",
+    "expirationDate": "2033-01-20T00:00:00Z",
+    "amount": 2550,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1067,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2032-03-08T00:00:00Z",
+    "expirationDate": "2033-03-08T00:00:00Z",
+    "amount": 1700,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1068,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2032-04-15T00:00:00Z",
+    "expirationDate": "2033-04-15T00:00:00Z",
+    "amount": 2100,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1069,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2032-06-20T00:00:00Z",
+    "expirationDate": "2033-06-20T00:00:00Z",
+    "amount": 2950,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1070,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2032-08-10T00:00:00Z",
+    "expirationDate": "2033-08-10T00:00:00Z",
+    "amount": 2600,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1071,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2032-09-25T00:00:00Z",
+    "expirationDate": "2033-09-25T00:00:00Z",
+    "amount": 1750,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1072,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2032-11-12T00:00:00Z",
+    "expirationDate": "2033-11-12T00:00:00Z",
+    "amount": 2150,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1073,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2032-12-30T00:00:00Z",
+    "expirationDate": "2033-12-30T00:00:00Z",
+    "amount": 3000,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1074,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2033-02-05T00:00:00Z",
+    "expirationDate": "2034-02-05T00:00:00Z",
+    "amount": 2650,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1075,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2033-04-20T00:00:00Z",
+    "expirationDate": "2034-04-20T00:00:00Z",
+    "amount": 1800,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1076,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2033-06-10T00:00:00Z",
+    "expirationDate": "2034-06-10T00:00:00Z",
+    "amount": 2200,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1077,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2033-07-25T00:00:00Z",
+    "expirationDate": "2034-07-25T00:00:00Z",
+    "amount": 3050,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1078,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2033-09-08T00:00:00Z",
+    "expirationDate": "2034-09-08T00:00:00Z",
+    "amount": 2700,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1079,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2033-10-15T00:00:00Z",
+    "expirationDate": "2034-10-15T00:00:00Z",
+    "amount": 1850,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1080,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2033-12-05T00:00:00Z",
+    "expirationDate": "2034-12-05T00:00:00Z",
+    "amount": 2250,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1081,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2034-01-20T00:00:00Z",
+    "expirationDate": "2035-01-20T00:00:00Z",
+    "amount": 3100,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1082,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2034-03-08T00:00:00Z",
+    "expirationDate": "2035-03-08T00:00:00Z",
+    "amount": 2750,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1083,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2034-04-15T00:00:00Z",
+    "expirationDate": "2035-04-15T00:00:00Z",
+    "amount": 1900,
+    "state": "pendiente"
   }
 ]
