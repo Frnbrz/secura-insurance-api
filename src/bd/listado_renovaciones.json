@@ -3894,5 +3894,405 @@
     "expirationDate": "2089-03-08T00:00:00Z",
     "amount": 7950,
     "state": "vencida"
+  },
+  {
+    "nPolicy": 1488,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2088-04-15T00:00:00Z",
+    "expirationDate": "2089-04-15T00:00:00Z",
+    "amount": 8300,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1489,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2088-06-10T00:00:00Z",
+    "expirationDate": "2089-06-10T00:00:00Z",
+    "amount": 7650,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1490,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2088-07-25T00:00:00Z",
+    "expirationDate": "2089-07-25T00:00:00Z",
+    "amount": 8000,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1491,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2088-09-08T00:00:00Z",
+    "expirationDate": "2089-09-08T00:00:00Z",
+    "amount": 8350,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1492,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2088-10-15T00:00:00Z",
+    "expirationDate": "2089-10-15T00:00:00Z",
+    "amount": 7700,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1493,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2088-12-05T00:00:00Z",
+    "expirationDate": "2089-12-05T00:00:00Z",
+    "amount": 8050,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1494,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2089-01-20T00:00:00Z",
+    "expirationDate": "2090-01-20T00:00:00Z",
+    "amount": 8400,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1495,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2089-03-08T00:00:00Z",
+    "expirationDate": "2090-03-08T00:00:00Z",
+    "amount": 7750,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1496,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2089-04-15T00:00:00Z",
+    "expirationDate": "2090-04-15T00:00:00Z",
+    "amount": 8100,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1497,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2089-06-10T00:00:00Z",
+    "expirationDate": "2090-06-10T00:00:00Z",
+    "amount": 8450,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1498,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2089-07-25T00:00:00Z",
+    "expirationDate": "2090-07-25T00:00:00Z",
+    "amount": 7800,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1499,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2089-09-08T00:00:00Z",
+    "expirationDate": "2090-09-08T00:00:00Z",
+    "amount": 8150,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1500,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2089-10-15T00:00:00Z",
+    "expirationDate": "2090-10-15T00:00:00Z",
+    "amount": 8500,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1501,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2089-12-05T00:00:00Z",
+    "expirationDate": "2090-12-05T00:00:00Z",
+    "amount": 7850,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1502,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2090-01-20T00:00:00Z",
+    "expirationDate": "2091-01-20T00:00:00Z",
+    "amount": 8200,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1503,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2090-03-08T00:00:00Z",
+    "expirationDate": "2091-03-08T00:00:00Z",
+    "amount": 8550,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1504,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2090-04-15T00:00:00Z",
+    "expirationDate": "2091-04-15T00:00:00Z",
+    "amount": 7900,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1505,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2090-06-10T00:00:00Z",
+    "expirationDate": "2091-06-10T00:00:00Z",
+    "amount": 8250,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1506,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2090-07-25T00:00:00Z",
+    "expirationDate": "2091-07-25T00:00:00Z",
+    "amount": 8600,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1507,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2090-09-08T00:00:00Z",
+    "expirationDate": "2091-09-08T00:00:00Z",
+    "amount": 7950,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1508,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2090-10-15T00:00:00Z",
+    "expirationDate": "2091-10-15T00:00:00Z",
+    "amount": 8300,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1509,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2090-12-05T00:00:00Z",
+    "expirationDate": "2091-12-05T00:00:00Z",
+    "amount": 8650,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1510,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2091-01-20T00:00:00Z",
+    "expirationDate": "2092-01-20T00:00:00Z",
+    "amount": 8000,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1511,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2091-03-08T00:00:00Z",
+    "expirationDate": "2092-03-08T00:00:00Z",
+    "amount": 8350,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1512,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2091-04-15T00:00:00Z",
+    "expirationDate": "2092-04-15T00:00:00Z",
+    "amount": 8700,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1513,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2091-06-10T00:00:00Z",
+    "expirationDate": "2092-06-10T00:00:00Z",
+    "amount": 8050,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1514,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2091-07-25T00:00:00Z",
+    "expirationDate": "2092-07-25T00:00:00Z",
+    "amount": 8400,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1515,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2091-09-08T00:00:00Z",
+    "expirationDate": "2092-09-08T00:00:00Z",
+    "amount": 8750,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1516,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2091-10-15T00:00:00Z",
+    "expirationDate": "2092-10-15T00:00:00Z",
+    "amount": 8100,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1517,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2091-12-05T00:00:00Z",
+    "expirationDate": "2092-12-05T00:00:00Z",
+    "amount": 8450,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1518,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2092-01-20T00:00:00Z",
+    "expirationDate": "2093-01-20T00:00:00Z",
+    "amount": 8800,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1519,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2092-03-08T00:00:00Z",
+    "expirationDate": "2093-03-08T00:00:00Z",
+    "amount": 8150,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1520,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2092-04-15T00:00:00Z",
+    "expirationDate": "2093-04-15T00:00:00Z",
+    "amount": 8500,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1521,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2092-06-10T00:00:00Z",
+    "expirationDate": "2093-06-10T00:00:00Z",
+    "amount": 8850,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1522,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2092-07-25T00:00:00Z",
+    "expirationDate": "2093-07-25T00:00:00Z",
+    "amount": 8200,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1523,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2092-09-08T00:00:00Z",
+    "expirationDate": "2093-09-08T00:00:00Z",
+    "amount": 8550,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1524,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2092-10-15T00:00:00Z",
+    "expirationDate": "2093-10-15T00:00:00Z",
+    "amount": 8900,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1525,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2092-12-05T00:00:00Z",
+    "expirationDate": "2093-12-05T00:00:00Z",
+    "amount": 8250,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1526,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2093-01-20T00:00:00Z",
+    "expirationDate": "2094-01-20T00:00:00Z",
+    "amount": 8600,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1527,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2093-03-08T00:00:00Z",
+    "expirationDate": "2094-03-08T00:00:00Z",
+    "amount": 8950,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1528,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2093-04-15T00:00:00Z",
+    "expirationDate": "2094-04-15T00:00:00Z",
+    "amount": 8300,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1529,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2093-06-10T00:00:00Z",
+    "expirationDate": "2094-06-10T00:00:00Z",
+    "amount": 8650,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1530,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2093-07-25T00:00:00Z",
+    "expirationDate": "2094-07-25T00:00:00Z",
+    "amount": 9000,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1531,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2093-09-08T00:00:00Z",
+    "expirationDate": "2094-09-08T00:00:00Z",
+    "amount": 8350,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1532,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2093-10-15T00:00:00Z",
+    "expirationDate": "2094-10-15T00:00:00Z",
+    "amount": 8700,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1533,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2093-12-05T00:00:00Z",
+    "expirationDate": "2094-12-05T00:00:00Z",
+    "amount": 9050,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1534,
+    "riskName": "Asistencia en Salud",
+    "contractDate": "2094-01-20T00:00:00Z",
+    "expirationDate": "2095-01-20T00:00:00Z",
+    "amount": 8400,
+    "state": "pagada"
+  },
+  {
+    "nPolicy": 1535,
+    "riskName": "Asistencia en Carretera",
+    "contractDate": "2094-03-08T00:00:00Z",
+    "expirationDate": "2095-03-08T00:00:00Z",
+    "amount": 8750,
+    "state": "vencida"
+  },
+  {
+    "nPolicy": 1536,
+    "riskName": "Asistencia en el Hogar",
+    "contractDate": "2094-04-15T00:00:00Z",
+    "expirationDate": "2095-04-15T00:00:00Z",
+    "amount": 9100,
+    "state": "pendiente"
+  },
+  {
+    "nPolicy": 1537,
+    "riskName": "Asistencia en Viajes",
+    "contractDate": "2094-06-10T00:00:00Z",
+    "expirationDate": "2095-06-10T00:00:00Z",
+    "amount": 8450,
+    "state": "pagada"
   }
 ]
