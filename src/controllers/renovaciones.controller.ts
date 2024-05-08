@@ -13,7 +13,14 @@ export const setRenovaciones = async (_req: any, res: any) => {
 
 export const setRenovacionById = async (_req: any, res: any) => {
   const id = _req.params.id
-  const renovacion = findRenovacionById(+id)
+  const renovacion = await findRenovacionById(+id)
+
+  console.log(renovacion)
+  if (!renovacion) {
+    return res
+      .status(404)
+      .send({ status: StatusType.NOT_FOUND, message: StatusMessage.USER })
+  }
 
   return renovacion !== undefined
     ? res.send({ status: StatusType.OK, data: renovacion })
