@@ -6,9 +6,21 @@ import {
 import { StatusMessage, StatusType } from '../types/enums'
 import { toNewRenovacion } from '../utils/utils'
 
-export const setRenovaciones = async (_req: any, res: any) => {
-  const renovaciones = await getRenovaciones()
-  res.send({ status: StatusType.OK, data: renovaciones })
+export const setRenovaciones = async (req: any, res: any) => {
+  const page = parseInt(req.query.page as string) || 1
+  const pageSize = parseInt(req.query.pageSize as string) || 10
+  const renovaciones = await getRenovaciones(page, pageSize)
+
+  console.log(pageSize, page)
+
+  // return total pages and total items
+
+  res.send({
+    status: StatusType.OK,
+    data: renovaciones.data,
+    totalPages: renovaciones.totalPages,
+    totalItems: renovaciones.totalItems
+  })
 }
 
 export const setRenovacionById = async (_req: any, res: any) => {
