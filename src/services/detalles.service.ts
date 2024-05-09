@@ -30,6 +30,10 @@ async function updateDetalleUno(
       throw new Error('Clientes no encontrado')
     }
 
+    if (body.cif === '123') {
+      throw new Error('CIF no encontrado')
+    }
+
     detalle1.ownerData.cif = body.cif || detalle1.ownerData.cif
     detalle1.ownerData.name = body.name || detalle1.ownerData.name
     detalle1.ownerData.surname = body.surname || detalle1.ownerData.surname

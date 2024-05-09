@@ -16,8 +16,12 @@ export const fetchDetalle2 = async (_req: any, res: any) => {
 }
 
 export const updateDetalle1 = async (req: any, res: any) => {
-  const { id } = req.params
-  const { body } = req
-  const clientes = await updateDetalleUno(id, body)
-  res.send({ status: StatusType.OK, data: clientes })
+  try {
+    const { id } = req.params
+    const { body } = req
+    const clientes = await updateDetalleUno(id, body)
+    res.send({ status: StatusType.OK, data: clientes })
+  } catch (error) {
+    res.status(404).send({ status: StatusType.NOT_FOUND, message: error })
+  }
 }
