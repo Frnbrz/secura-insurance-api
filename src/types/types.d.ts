@@ -1,5 +1,11 @@
 import { Role } from './enums'
 
+export type Paginated<T> = {
+  data: T[]
+  totalPages: number
+  totalItems: number
+}
+
 export interface User {
   id: number
   name: string
